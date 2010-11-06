@@ -4,7 +4,7 @@ Getting started is pretty straightforward.  The Shimeji project was originally c
 
 To participate in development, please send an e-mail to "relic.nt+Shimeji@gmail.com" and say what you intend to work on.
 
-This project is built using ant, so download ant (or use an IDE).  Look at the top level build.xml for more details.  The release version on the Downloads page is the Ultimate Shimeji-ee package.
+This project is built using ant, so download ant (or use an IDE).  Look at the top level build.xml for more details.  The release versions on the Downloads page uses the Personal version as "Calm" and Ultimate version as "Mischevious."
 
 If you're going to use an IDE, I'll assume you know how to set everything up yourself.  Note that there are multiple top level source folders.  The Main class is "com.group_finity.mascot.Main".
 
