@@ -2,7 +2,7 @@
 
 Getting started is pretty straightforward.  The Shimeji project was originally created by Yuki Yamada of Group Finity (http://www.group-finity.com/Shimeji/), most of the major design decisions are followed from the original source.  The coding style is also adopted from the original Shimeji code.  The Shimeji-ee project branch involves translating the program to English and adding additional functionality.
 
-To participate in development, please send an e-mail to "relic.nt+Shimeji@gmail.com" and tell me what you intend to work on.
+To participate in development, please send an e-mail to "relic.nt+Shimeji@gmail.com" and say what you intend to work on.
 
 This project is built using ant, so download ant (or use an IDE).  Look at the top level build.xml for more details.  The release version on the Downloads page is the Ultimate Shimeji-ee package.
 
