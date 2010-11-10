@@ -1,5 +1,3 @@
-#summary Welcome Page
-
 = Introduction =
 
 Hi, I started the Shimeji-ee project.  I came across Shimeji and thought it was pretty nifty.  I wanted to make a new image set and give it to my cousin for her birthday.  I decided that, seeing how the source was available, I might as well update the menus to be in English for her.  That was the beginning of my downfall.
