@@ -48,11 +48,11 @@ The behaviors.xml file specifies when Shimeji performs each action.  More detail
 
 Each type of Shimeji is configured through:
 
-1. An image set.  This is located in img/[NAME].  The image set must contain all image files specified in the actions file. 
+1. An image set.  This is located in img/_NAME_.  The image set must contain all image files specified in the actions file. 
 
-2. An actions file.  Unless img/[NAME]/conf/actions.xml or conf/[NAME]/actions.xml exists, conf/actions.xml will be used.
+2. An actions file.  Unless img/_NAME_/conf/actions.xml or conf/_NAME_/actions.xml exists, conf/actions.xml will be used.
 
-3. A behaviors file.  Unless img/[NAME]/conf/behaviors.xml or conf/[NAME]/behaviors.xml exists, conf/behaviors.xml will be used.
+3. A behaviors file.  Unless img/_NAME_/conf/behaviors.xml or conf/_NAME_/behaviors.xml exists, conf/behaviors.xml will be used.
 
 When Shimeji-ee starts, one Shimeji for every image set in the img folder will be created.  If you have too many image sets, a lot of your computer's memory will be used... so be careful.  Shimeji-ee can eat up to 60% of your system's free memory.  
 
