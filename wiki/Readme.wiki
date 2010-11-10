@@ -4,7 +4,7 @@
 
 Shimeji-ee is a Windows desktop mascot that freely wanders and plays around the screen.  The mascot is very configurable; its actions are defined through xml and its animations/images can be (painstakingly) customized.  Shimeji was originally created by Yuki Yamada of Group Finity (http://www.group-finity.com/Shimeji/).  This branch of the original Shimeji project not only translates the program/source to English, but adds additional enhancements to Shimeji.
 
-== Homepage (with wiki) == 
+== Homepage (with wiki) ==
 
 Homepage: http://code.google.com/p/shimeji-ee/
 
@@ -18,7 +18,7 @@ Homepage: http://code.google.com/p/shimeji-ee/
 
 Double Click the Shimeji-ee icon (Shimeji-ee.exe).  Right click the tray icon or the individual Shimeji for options.  Left click the tray icon to create another Shimeji.
 
-== Basic Configuration == 
+== Basic Configuration ==
 
 If you want multiple Shimeji types, you must have multiple image sets.  Basically, you put different folders with the correct Shimeji images under the img directory.
 
