@@ -6,6 +6,6 @@ Due to its customability, Shimeji was more complicated than I thought and had mu
 
 I've already put way more time than I intended into this project as it is and intend to mostly step away.  I'm hoping that other people will chip in to add more features, naturalize the translation, and fix any bugs.  Shimeji is actually very customizable, so I'm really hoping people add some guides to the wiki and create new configurations/image sets.  Customizing Shimeji is definitely not easy.  It's really easy to write a bad configuration and not know why.
 
-Good luck and have fun with Shimeji-ee.  Contribute if you have time, new image sets and guides would REALLY be nice.  Remember to thank Yuki Yamada for the original source, I'm glad I didn't have to do this from scratch.
+Good luck and have fun with Shimeji-ee.  Contribute if you have time, new image sets and guides would REALLY be nice.  Remember to thank Yuki Yamada for the original source, I'm glad I didn't have to do this from scratch. 
 
 - relic.nt
