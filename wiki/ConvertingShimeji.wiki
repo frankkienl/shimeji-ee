@@ -18,7 +18,7 @@ For the translation part, you'll need to do the following.  (If you don't have t
 
 To set up the "ConvertShimeji" python script:
 
-1. Download Notepad++.
+1. Download Notepad++: http://notepad-plus-plus.org/
 
 2. Download the "Python Script" plugin.  To download and install the plugin:
 
