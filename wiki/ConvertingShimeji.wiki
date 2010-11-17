@@ -1,3 +1,5 @@
+#summary Convert an old Shimeji for Shimeji-ee use
+
 Converting existing Shimeji is a fairly easy process.  If the Shimeji uses the standard configuration file with 46 images, then all you need to do is rename the Shimeji's img folder (any name is fine) and copy it to the Shimeji-ee img folder.
 
 =Converting Configuration Files=
